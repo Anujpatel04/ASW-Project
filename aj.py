@@ -6,7 +6,4 @@ else:
     print("Odd number")
     
 # Making comments to commit changes and check everything !!!!!
-
-#Anuj Patel on 05/10/2025
-
-# comments from online github console
+## Making changes !!!!!!!!!!!!!!!!!!
