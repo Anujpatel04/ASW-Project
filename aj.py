@@ -1,0 +1,6 @@
+n=int(input("Enter the number here:"))
+
+if n%2==0 or n==0:
+    print("Even Number")
+else:
+    print("Odd number")
